@@ -160,3 +160,13 @@ Học viên commit và push lên GitHub cá nhân:
 1. `Day19_GraphRAG_vs_FlatRAG_Production_Lab_Guide.ipynb` (Notebook đã chạy đầy đủ output các cell).
 2. `outputs/graphrag_eval_results.csv` và `outputs/graphrag_vs_flatrag_summary.csv`.
 3. `reports/lab_report.md` (Điền đầy đủ 2 phần: Thuyết minh kỹ thuật & Suy ngẫm cá nhân).
+
+### Chạy local reproducible trên dataset nhỏ được cung cấp
+
+Theo phạm vi lab được cung cấp, chạy pipeline trên bộ 50 câu/first-5000-row trong `data/`:
+
+```bash
+venv\Scripts\python.exe run_lab.py
+```
+
+Lệnh này nạp graph thật vào Neo4j bằng `UNWIND`, kiểm tra provenance và sinh các file trong `outputs/`. Dataset lớn trên Hugging Face chỉ cần khi muốn mở rộng ngoài phạm vi lab nhỏ.

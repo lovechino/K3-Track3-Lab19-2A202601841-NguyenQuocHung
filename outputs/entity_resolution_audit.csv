@@ -1,0 +1,71 @@
+type,left,right,similarity,decision
+Company,Accenture,Accenture,1.0,MERGE_MANUAL
+Company,Adobe,Adobe,1.0,MERGE_MANUAL
+Company,Aeris,Aeris,1.0,MERGE_MANUAL
+Technology,AI Lighthouse,AI Lighthouse,1.0,MERGE_MANUAL
+Company,Amazon,Amazon,1.0,MERGE_MANUAL
+Company,AMD,AMD,1.0,MERGE_MANUAL
+Company,Anthropic,Anthropic,1.0,MERGE_MANUAL
+Company,AP,AP,1.0,MERGE_MANUAL
+Technology,APEX Cloud Platforms,APEX Cloud Platforms,1.0,MERGE_MANUAL
+Company,Aqara,Aqara,1.0,MERGE_MANUAL
+Company,Associated Press,Associated Press,1.0,MERGE_MANUAL
+Company,AWS,AWS,1.0,MERGE_MANUAL
+Company,Axis Security,Axis Security,1.0,MERGE_MANUAL
+Technology,Azure OpenAI Service,Azure OpenAI Service,1.0,MERGE_MANUAL
+Technology,ChatGPT,ChatGPT,1.0,MERGE_MANUAL
+Company,Cohere,Cohere,1.0,MERGE_MANUAL
+Technology,Connected Vehicle Cloud,Connected Vehicle Cloud,1.0,MERGE_MANUAL
+Technology,Copilot,Copilot,1.0,MERGE_MANUAL
+Company,Dell,Dell,1.0,MERGE_MANUAL
+Company,Dell NativeEdge,Dell NativeEdge,1.0,MERGE_MANUAL
+Company,Deloitte,Deloitte,1.0,MERGE_MANUAL
+Company,DEWA,DEWA,1.0,MERGE_MANUAL
+Company,Edge,Edge,1.0,MERGE_MANUAL
+Company,Ericsson,Ericsson,1.0,MERGE_MANUAL
+Company,Excel,Excel,1.0,MERGE_MANUAL
+Company,FTC,FTC,1.0,MERGE_MANUAL
+Company,Google,Google,1.0,MERGE_MANUAL
+Technology,Google Cloud,Google Cloud,1.0,MERGE_MANUAL
+Technology,H2O.ai,H2O.ai,1.0,MERGE_MANUAL
+Company,HPE,HPE,1.0,MERGE_MANUAL
+Company,IBM,IBM,1.0,MERGE_MANUAL
+Company,Intel,Intel,1.0,MERGE_MANUAL
+Technology,IoT Accelerator,IoT Accelerator,1.0,MERGE_MANUAL
+Company,Keysight,Keysight,1.0,MERGE_MANUAL
+Company,KPMG,KPMG,1.0,MERGE_MANUAL
+Company,L&T Technology Services,L&T Technology Services,1.0,MERGE_MANUAL
+Technology,LLM,LLM,1.0,MERGE_MANUAL
+Company,Meta,Meta,1.0,MERGE_MANUAL
+Company,Microsoft,Microsoft,1.0,MERGE_MANUAL
+Company,Microsoft Azure,Microsoft Azure,1.0,MERGE_MANUAL
+Company,NativeEdge,NativeEdge,1.0,MERGE_MANUAL
+Technology,Now Assist,Now Assist,1.0,MERGE_MANUAL
+Technology,Now Assist for Virtual Agent,Now Assist for Virtual Agent,1.0,MERGE_MANUAL
+Company,NVIDIA,NVIDIA,1.0,MERGE_MANUAL
+Company,OneDrive,OneDrive,1.0,MERGE_MANUAL
+Technology,OpenAI,OpenAI,1.0,MERGE_MANUAL
+Company,Options Technology,Options Technology,1.0,MERGE_MANUAL
+Company,Outlook,Outlook,1.0,MERGE_MANUAL
+Company,Palo Alto Networks,Palo Alto Networks,1.0,MERGE_MANUAL
+Company,Poland,Poland,1.0,MERGE_MANUAL
+Company,Qualcomm,Qualcomm,1.0,MERGE_MANUAL
+Company,Salesforce,Salesforce,1.0,MERGE_MANUAL
+Company,Samsung,Samsung,1.0,MERGE_MANUAL
+Company,SASE,SASE,1.0,MERGE_MANUAL
+Company,Sensor OLED Display,Sensor OLED Display,1.0,MERGE_MANUAL
+Company,ServiceNow,ServiceNow,1.0,MERGE_MANUAL
+Company,SmartThings,SmartThings,1.0,MERGE_MANUAL
+Company,Snowflake,Snowflake,1.0,MERGE_MANUAL
+Company,Synopsys,Synopsys,1.0,MERGE_MANUAL
+Company,System LSI,System LSI,1.0,MERGE_MANUAL
+Company,Technology Innovation Institute,Technology Innovation Institute,1.0,MERGE_MANUAL
+Company,Thales,Thales,1.0,MERGE_MANUAL
+Company,White House,White House,1.0,MERGE_MANUAL
+Company,Windows,Windows,1.0,MERGE_MANUAL
+Company,Word,Word,1.0,MERGE_MANUAL
+Company,Google,Google Cloud,0.667,REJECT_GUARD
+Company,Microsoft,Microsoft Azure,0.75,REJECT_GUARD
+Technology,Apple,Apple Music,0.625,REJECT_GUARD
+Person,Sam Altman,Steve Altman,0.696,REJECT_GUARD
+Company,Microsoft Corp,Microsoft,0.923,MERGE_VECTOR

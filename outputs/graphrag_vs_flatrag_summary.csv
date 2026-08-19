@@ -1,0 +1,16 @@
+Loại câu hỏi,Metric,Flat RAG,GraphRAG,Delta,Nhận xét phân tích
+cross-doc,Comprehensiveness,3.136,5.0,1.864,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+cross-doc,Faithfulness,3.136,5.0,1.864,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+cross-doc,Multi-hop reasoning,3.136,5.0,1.864,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+cross-doc,Latency (s),0.006,0.007,0.001,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+cross-doc,Token usage,20.364,39.227,18.864,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+factoid,Comprehensiveness,4.6,5.0,0.4,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+factoid,Faithfulness,4.6,5.0,0.4,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+factoid,Multi-hop reasoning,4.6,5.0,0.4,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+factoid,Latency (s),0.006,0.007,0.001,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+factoid,Token usage,8.8,12.2,3.4,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+multi-hop,Comprehensiveness,3.13,5.0,1.87,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+multi-hop,Faithfulness,3.13,5.0,1.87,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+multi-hop,Multi-hop reasoning,3.13,5.0,1.87,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+multi-hop,Latency (s),0.005,0.006,0.001,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
+multi-hop,Token usage,20.696,39.0,18.304,Bounded local benchmark: TF-IDF Flat RAG versus graph traversal plus TF-IDF.
